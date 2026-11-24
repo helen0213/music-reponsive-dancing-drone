@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<?xml-model href="http://download.ros.org/schema/package_format3.xsd" schematypens="http://www.w3.org/2001/XMLSchema"?>
+<package format="3">
+  <name>drone_primitives</name>
+  <version>0.0.0</version>
+  <description>Movement primitives, patterns and min-jerk trajectories for the dancing Duckiedrone.</description>
+  <maintainer email="TODO_YOUR_EMAIL_ADDRESS">TODO_YOUR_FULL_NAME</maintainer>
+  <license>TODO</license>
+
+  <depend>rclpy</depend>
+  <depend>std_msgs</depend>
+  <exec_depend>python3-numpy</exec_depend>
+  <exec_depend>python3-yaml</exec_depend>
+
+  <export>
+    <build_type>ament_python</build_type>
+  </export>
+</package>
