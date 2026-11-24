@@ -1,0 +1,8 @@
+# Offline tools (laptop only, not in the drone image).
+# Also needs system libs: macOS `brew install ffmpeg libsndfile`; Debian/Ubuntu `apt install ffmpeg libsndfile1`.
+librosa
+numpy
+scipy
+soundfile
+pyyaml
+sounddevice  # microphone input for listen_sync
