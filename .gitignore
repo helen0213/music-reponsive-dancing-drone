@@ -12,3 +12,11 @@ html/*
 libraries/*
 !libraries/PLACE_YOUR_PYTHON_LIBRARIES_SUBMODULES_HERE
 !libraries/music_tools
+
+# runtime logs written by player_node
+logs/
+
+# python
+__pycache__/
+*.pyc
+.pytest_cache/
