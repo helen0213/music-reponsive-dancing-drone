@@ -1,0 +1,8 @@
+name: "music-responsive-dancing-drone"
+maintainer:
+    name: "TODO_YOUR_FULL_NAME"
+    email: "TODO_YOUR_EMAIL_ADDRESS"
+description: "Music-responsive dancing Duckiedrone: offline Librosa analysis, a beat-synced choreography schedule, executed through ROS 2."
+version: 0.0.0
+# pick an icon from: https://fontawesome.com/v4.7.0/icons/
+icon: music
